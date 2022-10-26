@@ -97,7 +97,7 @@ p.article {
   max-width: 100%;
 }
 span.current {
-  background-color: rgb(100, 151, 100);
+  background-color: #03a9f4;
   color: white;
   letter-spacing: 3px;
   padding: 0 3px;
