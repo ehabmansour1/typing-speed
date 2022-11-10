@@ -11,10 +11,7 @@ let end;
 let rate;
 let durationCounter = document.querySelector(".duration-counter");
 let timeElapse;
-req.open(
-  "Get",
-  "https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=53c26781aa39488caa87c726639fc249"
-);
+req.open("Get", "https://archive.org/download/type_20221110/type.json");
 req.send();
 req.onreadystatechange = function () {
   if (req.readyState == 4) {
