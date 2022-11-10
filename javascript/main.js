@@ -16,13 +16,22 @@ req.open(
   "https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=53c26781aa39488caa87c726639fc249"
 );
 req.send();
-req.onload = function () {
-  article = JSON.parse(req.responseText).articles[rnd].description;
-  // article = "sam s sad asd asd asd";
-  arr = article.split("");
-  arr[0] = `<span class = 'current'>${arr[0]}</span>`;
-  container.innerHTML = arr.join("");
+req.onreadystatechange = function () {
+  if (req.readyState == 4) {
+    article = JSON.parse(req.responseText).articles[rnd].description;
+    // article = "sam s sad asd asd asd";
+    arr = article.split("");
+    arr[0] = `<span class = 'current'>${arr[0]}</span>`;
+    container.innerHTML = arr.join("");
+  }
 };
+// req.onload = function () {
+//   article = JSON.parse(req.responseText).articles[rnd].description;
+//   // article = "sam s sad asd asd asd";
+//   arr = article.split("");
+//   arr[0] = `<span class = 'current'>${arr[0]}</span>`;
+//   container.innerHTML = arr.join("");
+// };
 
 document.onkeypress = function (event) {
   if (
