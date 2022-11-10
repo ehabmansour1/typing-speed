@@ -1,7 +1,6 @@
 let rnd = Math.floor(Math.random() * 20) + 1;
-let req = new XMLHttpRequest();
-let article = "";
-let arr = [];
+let article ;
+let arr ;
 let counter = 0;
 let errors = 0;
 let container = document.querySelector(".article");
@@ -11,6 +10,7 @@ let end;
 let rate;
 let durationCounter = document.querySelector(".duration-counter");
 let timeElapse;
+let req = new XMLHttpRequest();
 req.open("Get", "https://archive.org/download/type_20221110/type.json");
 req.send();
 req.onreadystatechange = function () {
