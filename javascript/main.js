@@ -22,7 +22,7 @@ let timeElapse;
 //     container.innerHTML = arr.join("");
 //   }
 // };
-fetch("/javascript/data.json")
+fetch("https://archive.org/download/data_20230109/data.json")
   .then((result) => {
     return result.json();
   })
