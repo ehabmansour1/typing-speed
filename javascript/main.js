@@ -22,9 +22,7 @@ let timeElapse;
 //     container.innerHTML = arr.join("");
 //   }
 // };
-fetch(
-  `https://newsapi.org/v2/sources?apiKey=53c26781aa39488caa87c726639fc249&pageSize=1&page=1`, { mode: 'no-cors'}
-)
+fetch("../javascript/data.json")
   .then((result) => {
     return result.json();
   })
