@@ -22,7 +22,7 @@ let timeElapse;
 //     container.innerHTML = arr.join("");
 //   }
 // };
-fetch("../javascript/data.json")
+fetch("./data.json")
   .then((result) => {
     return result.json();
   })
