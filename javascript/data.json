@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 67,
+  "articles": [
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Musk Paints Bleak Picture, Ends Remote Work, in Email to Twitter Employees - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiTmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMTAvdGVjaG5vbG9neS9lbG9uLW11c2stdHdpdHRlci1lbXBsb3llZXMuaHRtbNIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-11-10T17:57:36Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "HarperCollins Workers Strike for Better Pay and Benefits - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiQmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMTEvMTAvYm9va3MvaGFycGVyY29sbGlucy1zdHJpa2UuaHRtbNIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-11-10T17:16:49Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Alex Heath",
+      "title": "Elon Musk is putting Twitter at risk of billions in fines, warns company lawyer - The Verge",
+      "description": "Twitter’s chief privacy officer, chief compliance officer, and chief information security officer have all stepped down.",
+      "url": "https://www.theverge.com/2022/11/10/23451198/twitter-ftc-elon-musk-lawyer-changes-fine-warning",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/AMt9GnYRMa1CZ7NV1jqK72Kti3g=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/20086188/acastro_200715_1777_twitter_0001.0.jpg",
+      "publishedAt": "2022-11-10T16:52:06Z",
+      "content": "Twitters privacy and security teams are in turmoil after Elon Musks changes to the service bypassed its standard data governance processes. Now, a company lawyer is encouraging employees to seek whis… [+6381 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Sandee LaMotte",
+      "title": "Deadly listeria outbreak in 6 states linked to deli meat and cheese - CNN",
+      "description": "A multistate outbreak of listeria linked to deli meat and cheese has sickened over a dozen people and caused one death and a pregnancy loss, the CDC announced. Here's how to protect yourself.",
+      "url": "https://www.cnn.com/2022/11/09/health/deli-meat-cheese-listeria-wellness/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221109163017-listeria-file.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-11-10T16:49:00Z",
+      "content": "A deadly outbreak of listeria in six states has been linked to contaminateddeli meat and cheese, the US Centers for Disease Control and Prevention announced Wednesday. \r\nPeople at high risk of severe… [+3383 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Diana Olick",
+      "title": "Take a look inside the only large-scale 3D printed housing development in the U.S. - CNBC",
+      "description": "One of the nation's largest homebuilders, Lennar, is partnering with ICON, a 3D printing company to develop the project.",
+      "url": "https://www.cnbc.com/2022/11/10/look-inside-only-large-scale-3d-printed-housing-development-in-us.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107149805-1668096011349-icon_pic_720.jpg?v=1668098650&w=1920&h=1080",
+      "publishedAt": "2022-11-10T16:44:10Z",
+      "content": "It looks more like a project at NASA than a home construction site.\r\nJust outside Austin, Texas, massive machines are squeezing out 100 three- and four-bedroom homes, in the first major housing devel… [+3763 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Investor's Business Daily" },
+      "author": "Investor's Business Daily",
+      "title": "Veru Stock Plummets After FDA Advisors Vote Down Cancer-Turned-Covid Drug - Investor's Business Daily",
+      "description": "The FDA isn't bound by the advisors' recommendation. But it does consider their vote.",
+      "url": "https://www.investors.com/news/technology/veru-stock-plummets-after-fda-advisors-vote-down-cancer-turned-covid-drug/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2019/07/stock-pharmaceutical-opioids-01-shutter.jpg",
+      "publishedAt": "2022-11-10T16:34:00Z",
+      "content": "Veru stock collapsed Thursday after the Food and Drug Administration's advisors voted against the company's cancer drug turned Covid treatment.\r\nXThe FDA's Pulmonary-Allergy Drugs Advisory Committee … [+2419 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Inflation data takes Fed tightening into 'fine-tuning' phase, says Jefferies David Zervos - CNBC Television",
+      "description": "Omar Aguilar, Schwab Asset Management CEO and CIO, and David Zervos, Jefferies chief market strategist, join 'Squawk on the Street' to discuss if Thursday's ...",
+      "url": "https://www.youtube.com/watch?v=SI1VWWClXww",
+      "urlToImage": "https://i.ytimg.com/vi/SI1VWWClXww/maxresdefault.jpg",
+      "publishedAt": "2022-11-10T16:33:22Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Bitcoin bull Michael Saylor on FTX-Binance chaos: Crypto industry needs to grow up - CNBC Television",
+      "description": "Michael Saylor, Microstrategy founder and executive chairman, joins 'Squawk on the Street' to discuss the recent news in the cryptocurrency space, how bitcoi...",
+      "url": "https://www.youtube.com/watch?v=Ql4iiTZfoDI",
+      "urlToImage": "https://i.ytimg.com/vi/Ql4iiTZfoDI/maxresdefault.jpg",
+      "publishedAt": "2022-11-10T16:28:13Z",
+      "content": null
+    },
+    {
+      "source": { "id": "ars-technica", "name": "Ars Technica" },
+      "author": "Kyle Orland",
+      "title": "For $8, Twitter Blue users create a wave of checkmarked imposter accounts - Ars Technica",
+      "description": "Most fake accounts are suspended quickly, but not before some brand damage is done.",
+      "url": "https://arstechnica.com/gaming/2022/11/twitter-scammers-use-musks-paid-checkmarks-to-spread-official-looking-fake-news/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/mariofinger2-680x380.jpg",
+      "publishedAt": "2022-11-10T16:24:53Z",
+      "content": "Enlarge/ Don't let the blue check mark fool you; \"Nintendoofus\" is not an official account...\r\n146 with 0 posters participating\r\nTwitter has begun rolling out its $8-a-month Twitter Blue subscription… [+5361 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CoinDesk" },
+      "author": "Oliver Knight, Sam  Kessler",
+      "title": "Crypto Exchange FTX Reopens Withdrawals: Nansen - CoinDesk",
+      "description": "Several users have been able to withdraw crypto for the first time in days.",
+      "url": "https://www.coindesk.com/business/2022/11/10/crypto-exchange-ftx-reopens-withdrawals-nansen/",
+      "urlToImage": "https://www.coindesk.com/resizer/-TPUkPBjzAFY0dk5SqXzHKPjqDg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/UJH3OSMX6BBT3G7APQIQUIRU2I.jpg",
+      "publishedAt": "2022-11-10T16:14:00Z",
+      "content": "Troubled crypto exchange FTX has reopened withdrawals to some users, according to on-chain data provided by Nansen.\r\nOne user was able to withdraw $2.6 million worth of ether (ETH) while another was … [+1858 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Cointelegraph" },
+      "author": "Jesse Coghlan",
+      "title": "FTX and Binance’s ongoing saga: Everything that’s happened until now - Cointelegraph",
+      "description": "Cryptocurrency exchanges Binance and FTX have made headlines over the past few days and Cointelegraph has rounded up the major moves that have taken place from the start until now.",
+      "url": "https://cointelegraph.com/news/ftx-and-binance-s-ongoing-saga-everything-that-s-happened-until-now",
+      "urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMTEvMTU3NDA5NmEtNzk5My00MmI3LWJlZDktYjllMjhmNzJhMTg0LmpwZw==.jpg",
+      "publishedAt": "2022-11-10T15:35:03Z",
+      "content": "All dates are Coordinated Universal Time (UTC). Updates are in reverse order the latest updates are at the top.\r\nNov. 10  Maxine Waters warns of 'major consequences' for users of unregulated crypto f… [+11088 chars]"
+    },
+    {
+      "source": { "id": "financial-times", "name": "Financial Times" },
+      "author": "George Steer, Hudson Lockett",
+      "title": "US stocks soar after inflation data cool Fed rate rise expectations - Financial Times",
+      "description": "Government bonds also rally, triggered by expectations of lower Fed rate rise",
+      "url": "https://www.ft.com/content/c90f6775-28ff-4bcb-b36a-7b01d5672403",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9e160260-a3ed-4d26-bba9-785be87e18c5.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2022-11-10T15:33:33Z",
+      "content": "US stocks shot higher and Treasuries rallied on Thursday after Octobers closely watched inflation data came in cooler than expected, setting the stage for lower Federal Reserve rate rises. \r\nWall Str… [+2774 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Annie Palmer",
+      "title": "Amazon introduces 'Sparrow' robotic arm that can do repetitive warehouse tasks - CNBC",
+      "description": "Amazon on Thursday unveiled a new robotic arm for use in warehouses that can lift and sort items of varying shapes and sizes.",
+      "url": "https://www.cnbc.com/2022/11/10/amazon-introduces-robotic-arm-that-can-do-repetitive-warehouse-tasks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107149710-1668090915731-Sparrow_DSC03045.JPG?v=1668094201&w=1920&h=1080",
+      "publishedAt": "2022-11-10T15:30:01Z",
+      "content": "Amazon on Thursday showed off a new robot that could one day assist warehouse workers with some of the more tedious aspects of the job.\r\nThe company unveiled \"Sparrow,\" a robotic arm that can pluck m… [+1560 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Variety" },
+      "author": "Ethan Shanfeld",
+      "title": "Mark Cuban Slams Elon Musk: Letting Anyone Get Verified ‘Killed the Most Valuable Part of Twitter’ - Variety",
+      "description": "Popular on Variety After Elon Musk took over Twitter and introduced a surge of new policies regarding verification and impersonation, Mark Cuban is giving the fellow billionaire advice on how to fix the app. With Musk’s new $8 per month Twitter Blue subscript…",
+      "url": "https://variety.com/2022/digital/news/mark-cuban-slams-elon-musk-twitter-verification-plan-nightmare-1235429190/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2022/11/Collage-Maker-10-Nov-2022-10.24-AM-1-e1668094341590.jpg?w=997&h=562&crop=1",
+      "publishedAt": "2022-11-10T15:29:00Z",
+      "content": "After Elon Musk took over Twitter and introduced a surge of new policies regarding verification and impersonation, Mark Cuban is giving the fellow billionaire advice on how to fix the app.\r\nWith Musk… [+3162 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Why High Inflation Has Lasted for So Long | WSJ - Wall Street Journal",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DezTPNACVVos",
+      "urlToImage": null,
+      "publishedAt": "2022-11-10T15:08:45Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Amelia Lucas",
+      "title": "Keurig Dr Pepper CEO resigns after violating company's code of conduct - CNBC",
+      "description": "Keurig Dr Pepper said Ozan Dokmecioglu's violations were not related to the company's strategy, operations or financial reporting.",
+      "url": "https://www.cnbc.com/2022/11/10/keurig-dr-pepper-ceo-resigns-after-violating-code-of-conduct.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107149725-1668091803196-gettyimages-1242093233-RAFAPRESS_24072022-01830.jpeg?v=1668092757&w=1920&h=1080",
+      "publishedAt": "2022-11-10T15:05:57Z",
+      "content": "Keurig Dr Pepper announced Thursday that CEO Ozan Dokmecioglu agreed to resign after violating the company's code of conduct, less than four months into the job.\r\nThe beverage giant said the violatio… [+1444 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Decrypt" },
+      "author": "Andrew Asmakov",
+      "title": "FTX Used Client Funds, FTT Tokens, and Robinhood Shares to Prop Up Alameda: Report - Decrypt",
+      "description": "FTX chief Sam Bankman-Fried allegedly used customer funds to support the exchange’s sister firm Alameda Research.",
+      "url": "https://decrypt.co/114094/ftx-chief-used-client-funds-ftt-tokens-robinhood-shares-prop-up-alameda-research-report",
+      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/ftt-ftx-crypto-tokens-gID_4.jpg",
+      "publishedAt": "2022-11-10T14:45:32Z",
+      "content": "After Alameda Research suffered a series of losses in May and June this year, the trading firms founder Sam Bankman-Fried set at least $4 billion in FTX funds to Alameda, according to a Reuters repor… [+2272 chars]"
+    },
+    {
+      "source": { "id": "new-york-magazine", "name": "New York Magazine" },
+      "author": "John Herrman",
+      "title": "Making Sense of Mastodon and Other Twitter Alternatives - New York Magazine",
+      "description": "The Elon Musk-led era at Twitter is off to an alarming start. But if not Twitter, where? Is there a better place to tweet?",
+      "url": "http://nymag.com/intelligencer/2022/11/making-sense-of-mastodon-and-other-twitter-alternatives.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/629/e79/31f335b4425e834e3524f65c188becac0c-mastodon-twitter.1x.rsocial.w1200.jpg",
+      "publishedAt": "2022-11-10T14:45:04Z",
+      "content": "The Elon Muskled era at Twitter is off to an alarming start with mass layoffs, sudden feature changes, and at the center of it all, a man who truly cannot stop posting. The platform is largely the sa… [+9595 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Turkey prices spike due to inflation and bird flu - CBS News",
+      "description": "Janet Shamlian traveled to an Indiana turkey farm, where she found inflation is not the only reason this year's Thanksgiving meal is going to cost more. #new...",
+      "url": "https://www.youtube.com/watch?v=e1jpJQwLv0U",
+      "urlToImage": "https://i.ytimg.com/vi/e1jpJQwLv0U/maxresdefault.jpg",
+      "publishedAt": "2022-11-10T14:36:26Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "CoinDesk" },
+      "author": "Oliver Knight",
+      "title": "Tether Freezes $46M of USDT Held by FTX Following Law-Enforcement Request - CoinDesk",
+      "description": "The stablecoin lost its $1 peg earlier on Thursday.",
+      "url": "https://www.coindesk.com/business/2022/11/10/tether-freezes-46m-of-usdt-following-law-enforcement-request/",
+      "urlToImage": "https://www.coindesk.com/resizer/7EWVRA2y3oSSBX9d65SK1iZQVVM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/OL7FC4LRBBBQJLBZD7YLKIVKY4.png",
+      "publishedAt": "2022-11-10T14:35:00Z",
+      "content": "Please note that ourprivacy policy,terms of use,cookies, anddo not sell my personal informationhas been updated.\r\nThe leader in news and information on cryptocurrency, digital assets and the future o… [+538 chars]"
+    }
+  ]
+}

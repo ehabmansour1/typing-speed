@@ -1,6 +1,6 @@
 let rnd = Math.floor(Math.random() * 20) + 1;
-let article ;
-let arr ;
+let article;
+let arr;
 let counter = 0;
 let errors = 0;
 let container = document.querySelector(".article");
@@ -10,26 +10,31 @@ let end;
 let rate;
 let durationCounter = document.querySelector(".duration-counter");
 let timeElapse;
-let req = new XMLHttpRequest();
-req.open("Get", "https://archive.org/download/type_20221110/type.json");
-req.send();
-req.onreadystatechange = function () {
-  if (req.readyState == 4) {
-    article = JSON.parse(req.responseText).articles[rnd].description;
-    // article = "sam s sad asd asd asd";
+// let req = new XMLHttpRequest();
+// req.open("Get", "https://archive.org/download/type_20221110/type.json");
+// req.send();
+// req.onreadystatechange = function () {
+//   if (req.readyState == 4) {
+//     article = JSON.parse(req.responseText).articles[rnd].description;
+//     // article = "sam s sad asd asd asd";
+//     arr = article.split("");
+//     arr[0] = `<span class = 'current'>${arr[0]}</span>`;
+//     container.innerHTML = arr.join("");
+//   }
+// };
+fetch(
+  `https://newsapi.org/v2/sources?apiKey=53c26781aa39488caa87c726639fc249&pageSize=1&page=1`
+)
+  .then((result) => {
+    return result.json();
+  })
+  .then((result) => {
+    article = result.sources[Math.floor(Math.random() * 100)].description;
     arr = article.split("");
     arr[0] = `<span class = 'current'>${arr[0]}</span>`;
-    container.innerHTML = arr.join("");
-  }
-};
-// req.onload = function () {
-//   article = JSON.parse(req.responseText).articles[rnd].description;
-//   // article = "sam s sad asd asd asd";
-//   arr = article.split("");
-//   arr[0] = `<span class = 'current'>${arr[0]}</span>`;
-//   container.innerHTML = arr.join("");
-// };
-
+    document.querySelector("#loader").style.display = "none";
+    container.innerHTML = container.innerHTML + arr.join("");
+  });
 document.onkeypress = function (event) {
   if (
     `<span class = 'current'>${event.key}</span>` === arr[counter] &&
